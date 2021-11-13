@@ -1,0 +1,4 @@
+[submodule "Modules/MythSDK"]
+	path = Modules/MythSDK
+	url = https://github.com/Krakenus00/MythSDK.git
+	branch = master
