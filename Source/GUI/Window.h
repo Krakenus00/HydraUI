@@ -1,9 +1,12 @@
 #pragma once
 
+#include "WinPrefs.h"
 #include "Exception.h"
 
 #include <optional>
 
+namespace HydraGUI
+{
     class Window
     {
 	private:
